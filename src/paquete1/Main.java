@@ -189,6 +189,7 @@ while (falsedad) {
     	lista2.clear();
     	lista3.clear();
             falsedad=false;
+            scan.close();
             break;   
     case 6: 
     	try {
