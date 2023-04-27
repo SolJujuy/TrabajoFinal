@@ -56,7 +56,9 @@ public abstract class producto {
 		}
 		
 		
-		
+		public abstract double valorFinal(
+				double valorInicial, int cantidad);
+				
 		
 	
 }
